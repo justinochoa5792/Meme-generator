@@ -1,0 +1,10 @@
+* {
+  list-style-type: none;
+}
+.App {
+  text-align: center;
+}
+
+img {
+  height: 60vh;
+}
